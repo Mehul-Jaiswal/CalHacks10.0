@@ -1,5 +1,8 @@
 {
-    "Anger": 0.0013322612503543496,
-    "Joy": 0.868027925491333,
-    "Sadness": 0.000832052668556571
+    "text_sample": "I am feeling very happy today. I am so excited to be here. I am feeling very sad today. I am so depressed to be here. I am feeling very angry today. I am so mad to be here.",
+    "emotions": {
+        "Anger": 0.0013322612503543496,
+        "Joy": 0.868027925491333,
+        "Sadness": 0.000832052668556571
+    }
 }
